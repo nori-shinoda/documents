@@ -5,8 +5,10 @@
 - PostgreSQL 10 Beta 1
 - PostgreSQL 11 Beta 1
 - PostgreSQL 11 GA
-- PostgreSQL 12 Beta 1
-- PostgreSQL 12 GA
+- [PostgreSQL 12 Beta 1 (English)](postgresql12_beta1_new_features_en_20190524-1.pdf)
+- [PostgreSQL 12 Beta 1 (Japanese)](postgresql12_beta1_new_features_ja_20190524-1.pdf)
+- [PostgreSQL 12 GA (English)](postgresql12_ga_new_features_en_20191011-1.pdf)
+- [PostgreSQL 12 GA (Japanese)](postgresql12_ga_new_features_ja_20191011-1.pdf)
 - [PostgreSQL 13 Beta 1 (English)](postgresql13_beta1_new_features_en_20200527-1.pdf)
 - [PostgreSQL 13 Beta 1 (Japanese)](postgresql13_beta1_new_features_ja_20200527-1.pdf)
 - [PostgreSQL 13 GA (English)](postgresql13_ga_new_features_en_20200927-1.pdf)
