@@ -10,10 +10,10 @@
 - 12 GA
 - 13 Beta
 - 13 GA
-- 14 Beta (Japanese)
-- 14 Beta (English)
-- 14 GA (Japanese)
-- 14 GA (English)
+- [14 Beta (English)](postgresql14_beta1_new_features_en_20210521-1.pdf)
+- [14 Beta (Japanese)](postgresql14_beta1_new_features_ja_20210521-1.pdf)
+- [PostgreSQL 14 GA (English)](postgresql14_ga_new_features_en_20211001-1.pdf)
+- [PostgreSQL 14 GA (Japanese)](postgresql14_ga_new_features_ja_20211001-1.pdf)
 
 ## Citus
 - Citus 8 (Japanese)
