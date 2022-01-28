@@ -1,8 +1,9 @@
 # Documents
 
 ## PostgreSQL New Features with Examples
-- PostgreSQL 9.5 Alpha 2 (English)
-- PostgreSQL 9.5 Alpha 2 (Japanese)
+- [PostgreSQL 9.4 Beta 1 (Japanese)](postgresql94_beta1_new_features_ja_20140702-1.pdf)
+- [PostgreSQL 9.5 Alpha 2 (English)](postgresql95_alpha2_new_feature_en_20150807-1.pdf)
+- [PostgreSQL 9.5 Alpha 2 (Japanese)](postgresql95_alpha2_new_features_ja_20150807-1.pdf)
 - [PostgreSQL 9.6 Beta 1 (English)](postgresql96_beta1_new_features_en_20160606-1.pdf)
 - [PostgreSQL 9.6 Beta 1 (Japanese)](postgresql96_beta1_new_features_ja_20160530-1.pdf)
 - [PostgreSQL 10 Beta 1 (English)](postgresql10_beta1_new_features_en_20170522-1.pdf)
