@@ -21,6 +21,10 @@
 - [PostgreSQL 14 GA (English)](postgresql14_ga_new_features_en_20211001-1.pdf)
 - [PostgreSQL 14 GA (Japanese)](postgresql14_ga_new_features_ja_20211001-1.pdf)
 
+## Internal Documents
+- PostgreSQL Internals 9.6 (English)
+- PostgreSQL Internals 9.6 (Japanese)
+
 ## Citus
 - Citus 8 (Japanese)
 - Citus 10 (Japanese)
