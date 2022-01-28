@@ -1,7 +1,9 @@
 # Documents
 
 ## PostgreSQL New Features with Examples
-- PostgreSQL 9.6
+- PostgreSQL 9.6 
+- PostgreSQL 10 Beta 1 (English)
+- PostgreSQL 10 Beta 1 (Japanese)
 - [PostgreSQL 11 Beta 1 (English)](postgresql11_beta1_new_features_en_20180525-1.pdf)
 - [PostgreSQL 11 Beta 1 (Japanese)](postgresql11_beta1_new_features_ja_20180525-1.pdf)
 - [PostgreSQL 11 GA (English)](postgresql11_ga_new_features_en_20181022-1.pdf)
