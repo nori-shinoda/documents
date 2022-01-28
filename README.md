@@ -32,8 +32,8 @@
 - [PostgreSQL Internals (2) for PostgreSQL 9.6 (Japanese)](postgresql96_internals_2_ja_20150316-1.pdf)
 
 ## Citus
-- Citus 8 (Japanese)
-- Citus 10 (Japanese)
+- [Citus 7.5 (Japanese)](citus_7_20180702-1.pdf)
+- [Citus 10 (Japanese)](citus_10_20210907-1.pdf)
 
 ## Seminar
 - PostgreSQL Conference ASIA (2017)
