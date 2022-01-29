@@ -59,7 +59,7 @@
 
 ### Oracle Database
 - [Oracle Database New Features @ Oracle Database Connect 2017 (Japanese)](oracle_database_connect_2017_new_feature_20170307-1.pdf) 2017/03/07
-- [Oracle Database New Features @ db tech showcase 2019 (Japanese)](db_tech_showcase_2019_oracle_new_features_ja_20190926-1) 2019/09/26
+- [Oracle Database New Features @ db tech showcase 2019 (Japanese)](db_tech_showcase_2019_oracle_new_features_ja_20190926-1.pdf) 2019/09/26
 - [Add PLEASE clause to Oracle Database @ MyNA](add_please_clause_to_oracle_ja_20210412-1.pdf) 2021/04/12
 
 ### Other
