@@ -37,9 +37,31 @@
 - [Citus 10 (Japanese)](citus_10_20210907-1.pdf) 2021/09/07
 
 ## Seminar
-- PostgreSQL Conference ASIA (2017)
-- PostgreSQL Conference Japan (2020)
-- PostgreSQL Unconference#XX
-- PostgreSQL Unconference#20
-- PostgreSQL Unconference#26
-- PostgreSQL Conference Japan (2021)
+### PostgreSQL
+- [PostgreSQL 9.5 New Features @ JPUG Izumo (Japanese)](jpug_izumo_postgresql_95_new_feature-20151205-1.pdf) 2015/12/05
+- [PostgreSQL 9.5 New Features @ MyNA & JPUG (Japanese)](myna-jpug-postgresql_95_new_features_20160219-1.pdf) 2016/02/19
+- [PostgreSQL 9.5 New Features @ OSC Hiroshima 2016 (Japanese)](osc_2016_spring_postgresql95_new_feature_20160226-1.pdf) 2016/02/26
+- [PostgreSQL 9.6 New Features @ JPUG 2016 Seminar (Japanese)](jpug_2016_postgresql_96_new_feature_ja_20160618-1.pdf) 2016/06/18
+- [PostgreSQL 9.6 New Features @ Open Seminar Kagawa 2016 (Japanese)](open_seminar_kagawa_2016_postgresql_96_new_feature_20160702-1.pdf) 2016/07/02
+- [PostgreSQL 10 New Features @ OSC Hiroshima 2017 (Japanese)](osc_hiroshima_2017_postgresql_10_new_features_20171125-1.pdf) 2017/11/25
+- [Logical Replication Internals @ Pgconf Asia 2017 (Japanese)](pgconf_asia_2017_logical_replication_ja_20171204-1.pdf) 2017/12/04
+- [Logical Replication Internals @ Pgconf Asia 2017 (English)](pgconf_asia_2017_logical_replication_us_20171204-1.pdf) 2017/12/04
+- [Citus 7 @ PostgreSQL Conference 2018 (English)](postgresql_conference_2018_citus_en_20181121-1.pdf) 2018/11/21
+- [Citus 7 @ PostgreSQL Conference 2018 (Japanese)](postgresql_conference_2018_citus_ja_20181121-1.pdf) 2018/11/21
+- [EDB Migration Portal @ EDB Postgres Vision 2019 (Japanese)](edb_postgresvision_2019_migration_portal_20190801-1.pdf) 2019/08/01
+- [PostgreSQL History @ Open Seminar Kagawa 2019 (Japanese)](open_seminar_kagawa_2019_postgresql_history_20200111-1.pdf) 2020/01/11
+- [Undetectable Destruction @ PostgreSQL Unconference #15 (Japanese)](postgresql_unconference_15_broken_database_20200730-1.pdf) 2020/07/30
+- [PostgreSQL History @ PostgreSQL Conference Japan 2020 (Japanese)](postgresql_conference_2020_postgresql_features_20201113-1.pdf) 2020/11/13
+- [Process fail @ PostgreSQL Unconference #20 (Japanese)](postgresql_unconference_20_process_20210202-1.pdf) 2021/02/02
+- [Citus 10 @ PostgreSQL Conference 2021 (Japanese)](postgresql_conference_2021_citus10_20211112-1.pdf) 2021/11/12
+- [Process Failure @ PostgreSQL Unconference #26 (Japanese)](postgresql_unconference_26_error_20210824-1.pdf) 2021/08/24
+- [Unicode IVS @ PostgreSQL Unconference #29 (Japanese)](postgresql_unconference_29_locale_20211221-1.pdf) 2021/12/21
+
+### Oracle Database
+- [Oracle Database New Features @ Oracle Database Connect 2017 (Japanese)](oracle_database_connect_2017_new_feature_20170307-1.pdf) 2017/03/07
+- [Oracle Database New Features @ db tech showcase 2019 (Japanese)](db_tech_showcase_2019_oracle_new_features_ja_20190926-1) 2019/09/26
+- [Add PLEASE clause to Oracle Database @ MyNA](add_please_clause_to_oracle_ja_20210412-1.pdf) 2021/04/12
+
+### Other
+- [Implementation dependency in SQL @ Database Lounge Tokyo #3 (English)](database_lounge_tokyo_3_sql_statement_diff_en_20161129-1.pdf) 2016/11/29
+- [Implementation dependency in SQL @ Database Lounge Tokyo #3 (Japanese)](database_lounge_tokyo_3_sql_statement_diff_ja_20161129-1.pdf) 2016/11/29
