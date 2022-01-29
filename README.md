@@ -40,7 +40,7 @@
 ### PostgreSQL
 - [PostgreSQL 9.5 New Features @ JPUG Izumo (Japanese)](jpug_izumo_postgresql_95_new_feature-20151205-1.pdf) 2015/12/05
 - [PostgreSQL 9.5 New Features @ MyNA & JPUG (Japanese)](myna-jpug-postgresql_95_new_features_20160219-1.pdf) 2016/02/19
-- [PostgreSQL 9.5 New Features @ OSC Hiroshima 2016 (Japanese)](osc_2016_spring_postgresql95_new_feature_20160226-1.pdf) 2016/02/26
+- [PostgreSQL 9.5 New Features @ OSC Tokyo 2016 (Japanese)](osc_2016_spring_postgresql95_new_feature_20160226-1.pdf) 2016/02/26
 - [PostgreSQL 9.6 New Features @ JPUG 2016 Seminar (Japanese)](jpug_2016_postgresql_96_new_feature_ja_20160618-1.pdf) 2016/06/18
 - [PostgreSQL 9.6 New Features @ Open Seminar Kagawa 2016 (Japanese)](open_seminar_kagawa_2016_postgresql_96_new_feature_20160702-1.pdf) 2016/07/02
 - [PostgreSQL 10 New Features @ OSC Hiroshima 2017 (Japanese)](osc_hiroshima_2017_postgresql_10_new_features_20171125-1.pdf) 2017/11/25
