@@ -28,9 +28,10 @@
 
 ## Internal Documents
 - [PostgreSQL Internals (1) for PostgreSQL 9.4 (Japanese)](postgresql94_internals_1_ja_20150316-1.pdf) 2015/03/16
+- [PostgreSQL Internals (2) for PostgreSQL 9.4 (Japanese)](postgresql94_internals_2_ja_20150316-1.pdf) 2015/03/16
+- [TDE for PostgreSQL  (Japanese)](tde_for_postgresql_ja_20150615-1.pdf) 2015/06/15
 - [PostgreSQL Internals (1) for PostgreSQL 9.6 (English)](postgresql96_internals_1_en_20170211-1.pdf) 2017/02/11
 - [PostgreSQL Internals (1) for PostgreSQL 9.6 (Japanese)](postgresql96_internals_1_ja_20170211-1.pdf) 2017/02/11
-- [PostgreSQL Internals (2) for PostgreSQL 9.6 (Japanese)](postgresql96_internals_2_ja_20150316-1.pdf) 2015/03/16
 
 ## Citus
 - [Citus 7.5 (Japanese)](citus_7_20180702-1.pdf) 2018/07/02
@@ -38,6 +39,9 @@
 
 ## Seminar
 ### PostgreSQL
+- [PostgreSQL Administration & Configuration @ PostgreSQL Conference 2014 (Japanese)](postgresql_conference_2014_handson_20141205-1.pdf) 2014/12/05
+- [PostgreSQL Administration & Configuration DEMO @ PostgreSQL Conference 2014 (Japanese)](postgresql_conference_2014_handson_demo_20141205-1.pdf) 2014/12/05
+- [PostgreSQL Administration & Configuration @ OSC 2014 (Japanese)](osc2014-postgresql_admin_configuration_20141212-1.pdf) 2014/12/12
 - [PostgreSQL 9.5 New Features @ JPUG Izumo (Japanese)](jpug_izumo_postgresql_95_new_feature-20151205-1.pdf) 2015/12/05
 - [PostgreSQL 9.5 New Features @ MyNA & JPUG (Japanese)](myna-jpug-postgresql_95_new_features_20160219-1.pdf) 2016/02/19
 - [PostgreSQL 9.5 New Features @ OSC Tokyo 2016 (Japanese)](osc_2016_spring_postgresql95_new_feature_20160226-1.pdf) 2016/02/26
@@ -58,6 +62,7 @@
 - [Unicode IVS @ PostgreSQL Unconference #29 (Japanese)](postgresql_unconference_29_locale_20211221-1.pdf) 2021/12/21
 
 ### Oracle Database
+- [Oracle Database 12c New Features @ JPOUG SET EVENTS 20140907 (Japanese)](jpoug_setevents_20140907_oracle_new_features_20140907-1.pdf) 2014/09/07
 - [Oracle Database New Features @ Oracle Database Connect 2017 (Japanese)](oracle_database_connect_2017_new_feature_20170307-1.pdf) 2017/03/07
 - [Oracle Database New Features @ db tech showcase 2019 (Japanese)](db_tech_showcase_2019_oracle_new_features_ja_20190926-1.pdf) 2019/09/26
 - [Add PLEASE clause to Oracle Database @ MyNA](add_please_clause_to_oracle_ja_20210412-1.pdf) 2021/04/12
