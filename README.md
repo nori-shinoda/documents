@@ -41,7 +41,7 @@
 ### PostgreSQL
 - [PostgreSQL Administration & Configuration @ PostgreSQL Conference 2014 (Japanese)](postgresql_conference_2014_handson_20141205-1.pdf) 2014/12/05
 - [PostgreSQL Administration & Configuration DEMO @ PostgreSQL Conference 2014 (Japanese)](postgresql_conference_2014_handson_demo_20141205-1.pdf) 2014/12/05
-- [PostgreSQL Administration & Configuration @ OSC 2014 (Japanese)](osc2014-postgresql_admin_configuration_20141212-1.pdf) 2014/12/12
+- [PostgreSQL Administration & Configuration @ OSC 2014 Enterprise (Japanese)](osc2014-postgresql_admin_configuration_20141212-1.pdf) 2014/12/12
 - [PostgreSQL 9.5 New Features @ JPUG Izumo (Japanese)](jpug_izumo_postgresql_95_new_feature-20151205-1.pdf) 2015/12/05
 - [PostgreSQL 9.5 New Features @ MyNA & JPUG (Japanese)](myna-jpug-postgresql_95_new_features_20160219-1.pdf) 2016/02/19
 - [PostgreSQL 9.5 New Features @ OSC Tokyo 2016 (Japanese)](osc_2016_spring_postgresql95_new_feature_20160226-1.pdf) 2016/02/26
