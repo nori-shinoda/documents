@@ -56,9 +56,9 @@
 - [PostgreSQL History @ Open Seminar Kagawa 2019 (Japanese)](open_seminar_kagawa_2019_postgresql_history_20200111-1.pdf) 2020/01/11
 - [Undetectable Destruction @ PostgreSQL Unconference #15 (Japanese)](postgresql_unconference_15_broken_database_20200730-1.pdf) 2020/07/30
 - [PostgreSQL History @ PostgreSQL Conference Japan 2020 (Japanese)](postgresql_conference_2020_postgresql_features_20201113-1.pdf) 2020/11/13
-- [Process fail @ PostgreSQL Unconference #20 (Japanese)](postgresql_unconference_20_process_20210202-1.pdf) 2021/02/02
+- [Process failure @ PostgreSQL Unconference #20 (Japanese)](postgresql_unconference_20_process_20210202-1.pdf) 2021/02/02
 - [Citus 10 @ PostgreSQL Conference 2021 (Japanese)](postgresql_conference_2021_citus10_20211112-1.pdf) 2021/11/12
-- [Process Failure @ PostgreSQL Unconference #26 (Japanese)](postgresql_unconference_26_error_20210824-1.pdf) 2021/08/24
+- [Error Messages @ PostgreSQL Unconference #26 (Japanese)](postgresql_unconference_26_error_20210824-1.pdf) 2021/08/24
 - [Unicode IVS @ PostgreSQL Unconference #29 (Japanese)](postgresql_unconference_29_locale_20211221-1.pdf) 2021/12/21
 
 ### Oracle Database
