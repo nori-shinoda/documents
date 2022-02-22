@@ -60,6 +60,7 @@
 - [Citus 10 @ PostgreSQL Conference 2021 (Japanese)](postgresql_conference_2021_citus10_20211112-1.pdf) 2021/11/12
 - [Error Messages @ PostgreSQL Unconference #26 (Japanese)](postgresql_unconference_26_error_20210824-1.pdf) 2021/08/24
 - [Unicode IVS @ PostgreSQL Unconference #29 (Japanese)](postgresql_unconference_29_locale_20211221-1.pdf) 2021/12/21
+- [Babelfish compatibility @ PostgreSQL Unconference #31 (Japanese)](postgresql_unconference_31_babelfish_20220202-1.pdf) 2022/02/22
 
 ### Oracle Database
 - [Oracle Database 12c New Features @ JPOUG SET EVENTS 20140907 (Japanese)](jpoug_setevents_20140907_oracle_new_features_20140907-1.pdf) 2014/09/07
