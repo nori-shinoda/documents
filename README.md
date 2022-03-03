@@ -71,3 +71,8 @@
 ### Other
 - [Implementation dependency in SQL @ Database Lounge Tokyo #3 (English)](database_lounge_tokyo_3_sql_statement_diff_en_20161129-1.pdf) 2016/11/29
 - [Implementation dependency in SQL @ Database Lounge Tokyo #3 (Japanese)](database_lounge_tokyo_3_sql_statement_diff_ja_20161129-1.pdf) 2016/11/29
+
+### Web
+- [Introducing Oracle ACE](https://www.oracle.com/jp/technical-resources/articles/noriyoshi-shinoda.html)
+- [RDB past, present and future](https://atmarkit.itmedia.co.jp/ait/articles/2112/07/news008.html)
+
