@@ -49,8 +49,8 @@
 - [PostgreSQL 9.6 New Features @ JPUG 2016 Seminar (Japanese)](jpug_2016_postgresql_96_new_feature_ja_20160618-1.pdf) 2016/06/18
 - [PostgreSQL 9.6 New Features @ Open Seminar Kagawa 2016 (Japanese)](open_seminar_kagawa_2016_postgresql_96_new_feature_20160702-1.pdf) 2016/07/02
 - [PostgreSQL 10 New Features @ OSC Hiroshima 2017 (Japanese)](osc_hiroshima_2017_postgresql_10_new_features_20171125-1.pdf) 2017/11/25
-- [Logical Replication Internals @ Pgconf Asia 2017 (Japanese)](pgconf_asia_2017_logical_replication_ja_20171204-1.pdf) 2017/12/04
-- [Logical Replication Internals @ Pgconf Asia 2017 (English)](pgconf_asia_2017_logical_replication_us_20171204-1.pdf) 2017/12/04
+- [Logical Replication Internals @ PGConf.ASIA 2017 (Japanese)](pgconf_asia_2017_logical_replication_ja_20171204-1.pdf) 2017/12/04
+- [Logical Replication Internals @ PGConf.ASIA 2017 (English)](pgconf_asia_2017_logical_replication_us_20171204-1.pdf) 2017/12/04
 - [Citus 7 @ PostgreSQL Conference 2018 (English)](postgresql_conference_2018_citus_en_20181121-1.pdf) 2018/11/21
 - [Citus 7 @ PostgreSQL Conference 2018 (Japanese)](postgresql_conference_2018_citus_ja_20181121-1.pdf) 2018/11/21
 - [EDB Migration Portal @ EDB Postgres Vision 2019 (Japanese)](edb_postgresvision_2019_migration_portal_20190801-1.pdf) 2019/08/01
