@@ -58,6 +58,6 @@
 - Implementation dependency in SQL @ Database Lounge Tokyo #3 [(English)](database_lounge_tokyo_3_sql_statement_diff_en_20161129-1.pdf) [(Japanese)](database_lounge_tokyo_3_sql_statement_diff_ja_20161129-1.pdf) 2016/11/29
 
 ## Web
-- [Introducing Oracle ACE](https://www.oracle.com/jp/technical-resources/articles/noriyoshi-shinoda.html)
-- [RDB past, present and future](https://atmarkit.itmedia.co.jp/ait/articles/2112/07/news008.html)
-- [Books](https://www.amazon.co.jp/s?k=%E7%AF%A0%E7%94%B0%E5%85%B8%E8%89%AF)
+- Introducing Oracle ACE[(Japanese)](https://www.oracle.com/jp/technical-resources/articles/noriyoshi-shinoda.html)
+- RDB past, present and future[(Japanese)](https://atmarkit.itmedia.co.jp/ait/articles/2112/07/news008.html)
+- Books[(Japanese)](https://www.amazon.co.jp/s?k=%E7%AF%A0%E7%94%B0%E5%85%B8%E8%89%AF)
