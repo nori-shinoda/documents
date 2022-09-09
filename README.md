@@ -62,4 +62,4 @@
 - Introducing Oracle ACE [(Japanese)](https://www.oracle.com/jp/technical-resources/articles/noriyoshi-shinoda.html)
 - RDB past, present and future [(Japanese)](https://atmarkit.itmedia.co.jp/ait/articles/2112/07/news008.html)
 - Books [(Japanese)](https://www.amazon.co.jp/s?k=%E7%AF%A0%E7%94%B0%E5%85%B8%E8%89%AF)
-- Redgate 100 [Open Source Database](https://www.red-gate.com/hub/redgate-100/?category=open-source-database)
+- Redgate 100 [(Open Source Database)](https://www.red-gate.com/hub/redgate-100/?category=open-source-database)
