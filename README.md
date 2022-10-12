@@ -14,6 +14,7 @@
 - PostgreSQL 14 Beta 1 [(English)](postgresql14_beta1_new_features_en_20210521-1.pdf) [(Japanese)](postgresql14_beta1_new_features_ja_20210521-1.pdf) 2021/05/21
 - PostgreSQL 14 GA [(English)](postgresql14_ga_new_features_en_20211001-1.pdf) [(Japanese)](postgresql14_ga_new_features_ja_20211001-1.pdf) 2021/10/01
 - PostgreSQL 15 Beta 1 [(English)](postgresql15_beta1_new_features_en_20220524-1.pdf) [(Japanese)](postgresql15_beta1_new_features_ja_20220524-1.pdf) 2022/05/24
+- PostgreSQL 15 GA (English) TBA (Japanese) TBA
 
 ## Internal Documents
 - PostgreSQL Internals (1) for PostgreSQL 9.4 [(Japanese)](postgresql94_internals_1_ja_20150316-1.pdf) 2015/03/16
