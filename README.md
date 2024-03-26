@@ -30,6 +30,7 @@
 
 ## Seminar
 ### PostgreSQL
+- EDB Postgres Advanced Server compatibility @ db tech showcase 2013 [(Japanese)](db_tech_showcase_2013_ppas_compatibility_20131114-1.pdf) 2013/11/14
 - PostgreSQL Administration & Configuration @ PostgreSQL Conference 2014 [(Japanese)](postgresql_conference_2014_handson_20141205-1.pdf) 2014/12/05
 - PostgreSQL Administration & Configuration DEMO @ PostgreSQL Conference 2014 [(Japanese)](postgresql_conference_2014_handson_demo_20141205-1.pdf) 2014/12/05
 - PostgreSQL Administration & Configuration @ OSC 2014 Enterprise [(Japanese)](osc2014-postgresql_admin_configuration_20141212-1.pdf) 2014/12/12
