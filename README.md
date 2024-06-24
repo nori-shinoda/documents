@@ -53,6 +53,7 @@
 - Unicode IVS @ PostgreSQL Unconference #29 [(Japanese)](postgresql_unconference_29_locale_20211221-1.pdf) 2021/12/21
 - Babelfish compatibility @ PostgreSQL Unconference #31 [(Japanese)](postgresql_unconference_31_babelfish_20220202-1.pdf) 2022/02/22
 - ICU collation @ PostgreSQL Unconference #35 [(Japanese)](postgresql_unconference_35_icu_20220909-1.pdf) 2022/09/09
+- PostgreSQL History @ Kansai DB Conference #14 [(Japanese)](postgresql_kansai_db14_ja_20240622-1.pdf) 2024/06/22
 
 ### Oracle Database
 - Oracle Database 12c New Features @ JPOUG SET EVENTS 20140907 [(Japanese)](jpoug_setevents_20140907_oracle_new_features_20140907-1.pdf) 2014/09/07
@@ -63,9 +64,10 @@
 
 ### Other
 - Implementation dependency in SQL @ Database Lounge Tokyo #3 [(English)](database_lounge_tokyo_3_sql_statement_diff_en_20161129-1.pdf) [(Japanese)](database_lounge_tokyo_3_sql_statement_diff_ja_20161129-1.pdf) 2016/11/29
+- Implementation dependency in SQL @ db tech showcase 2024 B13 (TBD)
 
 ## Web
 - Introducing Oracle ACE [(Japanese)](https://www.oracle.com/jp/technical-resources/articles/noriyoshi-shinoda.html)
 - RDB past, present and future [(Japanese)](https://atmarkit.itmedia.co.jp/ait/articles/2112/07/news008.html)
 - Books [(Japanese)](https://www.amazon.co.jp/s?k=%E7%AF%A0%E7%94%B0%E5%85%B8%E8%89%AF)
-- Redgate 100 (Open Source Database)[(English)](https://www.red-gate.com/hub/redgate-100/?category=open-source-database)
+- Redgate 100 (Open Source Database) [(English)](https://www.red-gate.com/hub/redgate-100/?category=open-source-database)
