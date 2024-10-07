@@ -33,8 +33,8 @@
 ## Seminar
 ### PostgreSQL
 - EDB Postgres Advanced Server compatibility @ db tech showcase 2013 [(Japanese)](db_tech_showcase_2013_ppas_compatibility_20131114-1.pdf) 2013/11/14
-- PostgreSQL Administration & Configuration @ PostgreSQL Conference 2014 [(Japanese)](postgresql_conference_2014_handson_20141205-1.pdf) 2014/12/05
-- PostgreSQL Administration & Configuration DEMO @ PostgreSQL Conference 2014 [(Japanese)](postgresql_conference_2014_handson_demo_20141205-1.pdf) 2014/12/05
+- PostgreSQL Administration & Configuration @ PostgreSQL Conference Japan 2014 [(Japanese)](postgresql_conference_2014_handson_20141205-1.pdf) 2014/12/05
+- PostgreSQL Administration & Configuration DEMO @ PostgreSQL Conference Japan 2014 [(Japanese)](postgresql_conference_2014_handson_demo_20141205-1.pdf) 2014/12/05
 - PostgreSQL Administration & Configuration @ OSC 2014 Enterprise [(Japanese)](osc2014-postgresql_admin_configuration_20141212-1.pdf) 2014/12/12
 - PostgreSQL 9.5 New Features @ JPUG Izumo [(Japanese)](jpug_izumo_postgresql_95_new_feature-20151205-1.pdf) 2015/12/05
 - PostgreSQL 9.5 New Features @ MyNA & JPUG [(Japanese)](myna-jpug-postgresql_95_new_features_20160219-1.pdf) 2016/02/19
@@ -43,14 +43,14 @@
 - PostgreSQL 9.6 New Features @ Open Seminar Kagawa 2016 [(Japanese)](open_seminar_kagawa_2016_postgresql_96_new_feature_20160702-1.pdf) 2016/07/02
 - PostgreSQL 10 New Features @ OSC Hiroshima 2017 [(Japanese)](osc_hiroshima_2017_postgresql_10_new_features_20171125-1.pdf) 2017/11/25
 - Logical Replication Internals @ PGConf.ASIA 2017 [(English)](pgconf_asia_2017_logical_replication_us_20171204-1.pdf) [(Japanese)](pgconf_asia_2017_logical_replication_ja_20171204-1.pdf) 2017/12/04
-- Citus 7 @ PostgreSQL Conference 2018 [(English)](postgresql_conference_2018_citus_en_20181121-1.pdf) [(Japanese)](postgresql_conference_2018_citus_ja_20181121-1.pdf) 2018/11/21
+- Citus 7 @ PostgreSQL Conference Japan 2018 [(English)](postgresql_conference_2018_citus_en_20181121-1.pdf) [(Japanese)](postgresql_conference_2018_citus_ja_20181121-1.pdf) 2018/11/21
 - EDB Migration Portal @ EDB Postgres Vision 2019 [(Japanese)](edb_postgresvision_2019_migration_portal_20190801-1.pdf) 2019/08/01
 - PostgreSQL History @ Open Seminar Kagawa 2019 [(Japanese)](open_seminar_kagawa_2019_postgresql_history_20200111-1.pdf) 2020/01/11
 - Undetectable Destruction @ PostgreSQL Unconference #15 [(Japanese)](postgresql_unconference_15_broken_database_20200730-1.pdf) 2020/07/30
 - PostgreSQL History @ PostgreSQL Conference Japan 2020 [(Japanese)](postgresql_conference_2020_postgresql_features_20201113-1.pdf) 2020/11/13
 - Process failure @ PostgreSQL Unconference #20 [(Japanese)](postgresql_unconference_20_process_20210202-1.pdf) 2021/02/02
 - Error Messages @ PostgreSQL Unconference #26 [(Japanese)](postgresql_unconference_26_error_20210824-1.pdf) 2021/08/24
-- Citus 10 @ PostgreSQL Conference 2021 [(Japanese)](postgresql_conference_2021_citus10_20211112-1.pdf) 2021/11/12
+- Citus 10 @ PostgreSQL Conference Japan 2021 [(Japanese)](postgresql_conference_2021_citus10_20211112-1.pdf) 2021/11/12
 - Unicode IVS @ PostgreSQL Unconference #29 [(Japanese)](postgresql_unconference_29_locale_20211221-1.pdf) 2021/12/21
 - Babelfish compatibility @ PostgreSQL Unconference #31 [(Japanese)](postgresql_unconference_31_babelfish_20220202-1.pdf) 2022/02/22
 - ICU collation @ PostgreSQL Unconference #35 [(Japanese)](postgresql_unconference_35_icu_20220909-1.pdf) 2022/09/09
