@@ -55,6 +55,7 @@
 - Babelfish compatibility @ PostgreSQL Unconference #31 [(Japanese)](postgresql_unconference_31_babelfish_20220202-1.pdf) 2022/02/22
 - ICU collation @ PostgreSQL Unconference #35 [(Japanese)](postgresql_unconference_35_icu_20220909-1.pdf) 2022/09/09
 - PostgreSQL History @ Kansai DB Conference #14 [(Japanese)](postgresql_kansai_db14_ja_20240622-1.pdf) 2024/06/22
+- Columnar Table Access Method Comparison @ PostgreSQL Conference Japan 2024 '[(Japanese)](postgresql_conference_2024_columnar_access_method_20241206.pdf) 2024/12/06
 
 ### Oracle Database
 - Oracle Database 12c New Features @ JPOUG SET EVENTS 20140907 [(Japanese)](jpoug_setevents_20140907_oracle_new_features_20140907-1.pdf) 2014/09/07
