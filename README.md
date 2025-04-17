@@ -64,6 +64,7 @@
 - Oracle Database New Features @ db tech showcase 2019 [(Japanese)](db_tech_showcase_2019_oracle_new_features_ja_20190926-1.pdf) 2019/09/26
 - Add PLEASE clause to Oracle Database @ MyNA [(Japanese)](add_please_clause_to_oracle_ja_20210412-1.pdf) 2021/04/12
 - Oracle Database 23c New Features @ JPOUG#7 [(Japanese)](jpoug7_oracle_23c_new_features_20230913-2.pdf) 2023/09/13
+- Oracle Database UNDO Tablespace @ JPOUG#12 [(Japanese)](jpoug12_undo_tablespace_ja_20250417.pdf) 2025/04/17
 
 ### Other
 - Implementation dependency in SQL @ Database Lounge Tokyo #3 [(English)](database_lounge_tokyo_3_sql_statement_diff_en_20161129-1.pdf) [(Japanese)](database_lounge_tokyo_3_sql_statement_diff_ja_20161129-1.pdf) 2016/11/29
