@@ -19,6 +19,7 @@
 - PostgreSQL 16 GA [(English)](postgresql16_ga_new_features_en_20230919-1.pdf) [(Japanese)](postgresql16_ga_new_features_ja_20230919-1.pdf) 2023/09/19
 - PostgreSQL 17 Beta 1 [(English)](postgresql17_beta1_new_features_en_20240525-1.pdf) [(Japanese)](postgresql17_beta1_new_features_ja_20240525-1.pdf) 2024/05/25
 - PostgreSQL 17 GA [(English)](postgresql17_ga_new_features_en_20240930-1.pdf) [(Japanese)](postgresql17_ga_new_features_ja_20240930-1.pdf) 2024/09/30
+- PostgreSQL 18 Beta 1 [(English)](postgresql_18_beta1_new_features_en_20250527-1.pdf) [(Japanese)](postgresql_18_beta1_new_features_ja_20250527-1.pdf) 2025/05/27
 
 ## Internal Documents
 - PostgreSQL Internals (1) for PostgreSQL 9.4 [(Japanese)](postgresql94_internals_1_ja_20150316-1.pdf) 2015/03/16
