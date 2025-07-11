@@ -70,6 +70,7 @@
 ### Other
 - Implementation dependency in SQL @ Database Lounge Tokyo #3 [(English)](database_lounge_tokyo_3_sql_statement_diff_en_20161129-1.pdf) [(Japanese)](database_lounge_tokyo_3_sql_statement_diff_ja_20161129-1.pdf) 2016/11/29
 - Implementation dependency in SQL @ db tech showcase 2024 B13 [(Japanese)](db_tech_showcase_2024_sql_statement_diff_ja_20240712.pdf) 2024/07/12
+- SEQUENCE comparison @ db tech showcase 2025 LT2 [(Japanese)](db_tech_showcase_2025_lt2_sequence_comparison_20250710-1.pdf) 2024/07/12
 
 ## Web
 - Introducing Oracle ACE [(Japanese)](https://www.oracle.com/jp/technical-resources/articles/noriyoshi-shinoda.html)
