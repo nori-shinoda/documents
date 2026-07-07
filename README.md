@@ -60,6 +60,7 @@
 - PostgreSQL History @ Kansai DB Conference #14 [(Japanese)](postgresql_kansai_db14_ja_20240622-1.pdf) 2024/06/22
 - Columnar Table Access Method Comparison @ PostgreSQL Conference Japan 2024 [(Japanese)](postgresql_conference_2024_columnar_access_method_20241206.pdf) 2024/12/06
 - pg_tde @ PostgreSQL Unconference #52 [(Japanese)](postgresql_unconference_52_pg_tde_20250327-1.pdf) 2025/03/27
+- PostgreSQL 19 New Features Summary @ OSC Hokkaido 2026 [(Japanese)](osc_hokkaido_2026_postgresql_19_new_feature_20260625.pdf) 2026/06/27
 
 ### Oracle Database
 - Oracle Database 12c New Features @ JPOUG SET EVENTS 20140907 [(Japanese)](jpoug_setevents_20140907_oracle_new_features_20140907-1.pdf) 2014/09/07
