@@ -63,6 +63,7 @@
 - pg_tde @ PostgreSQL Unconference #52 [(Japanese)](postgresql_unconference_52_pg_tde_20250327-1.pdf) 2025/03/27
 - PostgreSQL 19 New Features Summary @ OSC Hokkaido 2026 [(Japanese)](osc_hokkaido_2026_postgresql_19_new_feature_20260625.pdf) 2026/06/27
 - PostgreSQL Optimizer Statistics secret @ db tech showcase 2026 [(Japanese)](postgreSQL_optimizer_secret_20261103-1.pdf) 2026/11/05
+- PostgreSQL Optimizer Statistics Summary @ PostgreSQL Conference Japan 2026 (Japanese) TBA
 
 ### Oracle Database
 - Oracle Database 12c New Features @ JPOUG SET EVENTS 20140907 [(Japanese)](jpoug_setevents_20140907_oracle_new_features_20140907-1.pdf) 2014/09/07
